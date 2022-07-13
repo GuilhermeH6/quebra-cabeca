@@ -1,0 +1,49 @@
+html, body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	font-family: 'Press Start 2P', cursive;
+	color: #12172c;
+	margin: 0;
+	padding: 0px;
+	box-sizing: border-box;
+	background-image: url('/images/bg.svg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	text-align: center;	
+}
+
+h1 {
+ 	color: #12172c;
+ 	font-weight: bold;
+}
+
+
+input, button, select, textarea {
+	-webkit-padding: 0.4em 0;
+	padding: 0.0em;
+	margin: 0 0 0.5em 0;
+	box-sizing: border-box;
+	border: 0px solid rgb(244, 13, 13);
+	border-radius: 0px;
+}
+
+div.menu {
+	list-style-type: none;
+	font-size: 20px;
+	margin: auto;
+	margin-bottom: 5px;
+	border-style: solid;
+	border-width: 5px;
+	width:20%;
+	padding: 15px;
+	border-radius: 5px;
+}
+
+div.menu:hover { 
+	background-color:  rgb(255, 255, 255);
+	cursor: pointer;
+}

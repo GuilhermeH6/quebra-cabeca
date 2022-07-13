@@ -1,0 +1,35 @@
+img {
+    max-width:28%;
+    height:auto;
+}
+h1 {
+    color: #000000;
+    text-align: center;
+    padding : 1px;
+    position:relative; }
+
+    p {
+        color: #000000;
+        text-align: center;
+        position:relative; 
+   }
+        h2 {
+            color: #000000;
+            text-align: center;
+            position:relative;
+
+        }
+        h4 {
+            color: #000000;
+            text-align: center;
+            position:relative; }
+
+        table {
+            color: #000000;
+            text-align: center;
+            position:relative;
+        }
+
+        tr {
+            padding-bottom: 50px;
+        }
